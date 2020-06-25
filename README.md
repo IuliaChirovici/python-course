@@ -1,2 +1,2 @@
-# sessiuon1
+# session1
 a repo for learning
